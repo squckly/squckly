@@ -1,6 +1,6 @@
-Hello, I’m squckly
-My page: http://squckly.xyz
-My discord server: https://discord.gg/pgCt4fDyeu
+hello hello
+my website: http://squckly.xyz
+discord: squckly
 
 <!---
 squckly/squckly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
